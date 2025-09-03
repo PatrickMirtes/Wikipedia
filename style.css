@@ -62,17 +62,19 @@ footer{
 }
 header{
     background-color:lightskyblue;
+    font-family: Rubik;
+    
 }
 button{
-    border-bottom: lightskyblue;
+    
     background-color: darkblue;
     color: white;
     cursor: pointer;
-    transition: 0.3s ease-in-out;
+    transition: 0.9s ease-in-out;
 }
 
 button:hover {
-    background-color: #0000756e;
+    background-color: #0000ff;
     transform: scale(1.2);
 }
 
